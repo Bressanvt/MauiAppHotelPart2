@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\.DEV\\Projetos\\maui\\MauiAppHotelPart2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6B46DF-0143-71F1-E6FC-5026C7EDAEE8}|MauiAppHotel\\MauiAppHotel.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\.dev\\projetos\\maui\\mauiapphotelpart2\\mauiapphotel\\views\\contratacaohospedagem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6B46DF-0143-71F1-E6FC-5026C7EDAEE8}|MauiAppHotel\\MauiAppHotel.csproj|solutionrelative:mauiapphotel\\views\\contratacaohospedagem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6B46DF-0143-71F1-E6FC-5026C7EDAEE8}|MauiAppHotel\\MauiAppHotel.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\.dev\\projetos\\maui\\mauiapphotelpart2\\mauiapphotel\\views\\hospedagemcontratada.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6B46DF-0143-71F1-E6FC-5026C7EDAEE8}|MauiAppHotel\\MauiAppHotel.csproj|solutionrelative:mauiapphotel\\views\\hospedagemcontratada.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6B46DF-0143-71F1-E6FC-5026C7EDAEE8}|MauiAppHotel\\MauiAppHotel.csproj|c:\\users\\vitor\\onedrive\\\u00E1rea de trabalho\\.dev\\projetos\\maui\\mauiapphotelpart2\\mauiapphotel\\views\\contratacaohospedagem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A6B46DF-0143-71F1-E6FC-5026C7EDAEE8}|MauiAppHotel\\MauiAppHotel.csproj|solutionrelative:mauiapphotel\\views\\contratacaohospedagem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HospedagemContratada.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\.DEV\\Projetos\\maui\\MauiAppHotelPart2\\MauiAppHotel\\Views\\HospedagemContratada.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppHotel\\Views\\HospedagemContratada.xaml.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\.DEV\\Projetos\\maui\\MauiAppHotelPart2\\MauiAppHotel\\Views\\HospedagemContratada.xaml.cs",
+              "RelativeToolTip": "MauiAppHotel\\Views\\HospedagemContratada.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T19:09:48.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContratacaoHospedagem.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\.DEV\\Projetos\\maui\\MauiAppHotelPart2\\MauiAppHotel\\Views\\ContratacaoHospedagem.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppHotel\\Views\\ContratacaoHospedagem.xaml.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\.DEV\\Projetos\\maui\\MauiAppHotelPart2\\MauiAppHotel\\Views\\ContratacaoHospedagem.xaml.cs",
+              "RelativeToolTip": "MauiAppHotel\\Views\\ContratacaoHospedagem.xaml.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwF8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T19:08:16.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContratacaoHospedagem.xaml",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\.DEV\\Projetos\\maui\\MauiAppHotelPart2\\MauiAppHotel\\Views\\ContratacaoHospedagem.xaml",
+              "RelativeDocumentMoniker": "MauiAppHotel\\Views\\ContratacaoHospedagem.xaml",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\.DEV\\Projetos\\maui\\MauiAppHotelPart2\\MauiAppHotel\\Views\\ContratacaoHospedagem.xaml",
+              "RelativeToolTip": "MauiAppHotel\\Views\\ContratacaoHospedagem.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-25T19:07:22.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
